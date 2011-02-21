@@ -1,0 +1,21 @@
+---
+fr-FR:
+  editor:
+    loading: Chargement en cours
+    font_name_and_size: Nom et taille de police
+    font_style: Style de police
+    alignment: Alignement
+    paragraph_style: Style de paragraphe
+    indenting_and_lists: "Indentation/Listes"
+    insert_item: Insertions
+    insert_image: Insérer une image
+    upload_image: Déposer une image
+    upload_file: Déposer un fichier
+    show_more_fields: Voir les champs supplémentaires
+    hide_more_fields: Cacher les champs supplémentaires
+    switch_simple: "Passer à l'éditeur simple"
+    switch_rich: "Passer à l'éditeur enrichi"
+    sidebar: Sidebar
+    header: Entête
+    footer: Pied de page
+    enter_file_name: Entrez le nom de fichier
